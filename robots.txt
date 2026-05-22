@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://d1yzsn4xlxa2vw.cloudfront.net/sitemap.xml
+Sitemap: https://www.sculptdfitness.com/sitemap.xml

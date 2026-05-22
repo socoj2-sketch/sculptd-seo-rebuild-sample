@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://d1yzsn4xlxa2vw.cloudfront.net/</loc></url>
-  <url><loc>https://d1yzsn4xlxa2vw.cloudfront.net/services.html</loc></url>
-  <url><loc>https://d1yzsn4xlxa2vw.cloudfront.net/beginners.html</loc></url>
-  <url><loc>https://d1yzsn4xlxa2vw.cloudfront.net/professionals.html</loc></url>
+  <url><loc>https://www.sculptdfitness.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.sculptdfitness.com/personal-training-columbus-ga/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.sculptdfitness.com/sculptd-brix-columbus-ga/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.sculptdfitness.com/plans/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.sculptdfitness.com/location/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.sculptdfitness.com/contact/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
